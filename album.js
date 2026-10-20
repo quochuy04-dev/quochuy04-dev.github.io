@@ -49,7 +49,7 @@
     const change = card.querySelector('.change-photo');
     const reset = card.querySelector('.reset-photo');
     const original = photo.getAttribute('src');
-    const key = `flower.album.photo.20-10.v1.${index}`;
+    const key = `flower.album.photo.20-10.v2.${index}`;
     let busy = false;
 
     change.addEventListener('click', () => {
