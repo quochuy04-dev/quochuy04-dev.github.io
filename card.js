@@ -3,9 +3,9 @@
 
   const STORAGE_KEY = 'flower.greeting.20-10.v1';
   const defaultGreeting = {
-    recipient: 'Mẹ yêu',
-    message: 'Chúc mẹ ngày 20/10 ngập tràn nụ cười. Mong mẹ luôn mạnh khỏe và thương bản thân mình nhiều hơn.\n\nCảm ơn Mẹ vì tất cả những hy sinh và tình yêu thương vô bờ bến dành cho con.',
-    sender: 'Con của Mẹ'
+    recipient: 'Em yêu Tuyết Mai',
+    message: 'Chúc em ngày 20/10 ngập tràn nụ cười. Mong em luôn mạnh khỏe và thương bản thân mình nhiều hơn.\n\nCảm ơn em vì đã luôn bên a mỗi lúc anh cáu gắt, love u darling.',
+    sender: 'Vít'
   };
   const dialog = document.getElementById('greetingCard');
   const openButton = document.getElementById('openCard');
